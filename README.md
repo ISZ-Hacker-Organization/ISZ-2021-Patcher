@@ -1,7 +1,8 @@
 # ISZ-2021-Patcher
 - Patches ISZ-2021 for Modding Purposes. (Allows installing of .pak, .uasset, C++ Code, and Blueprint Loading.
 
-
+# Downloads:
+- Download The [Latest Release]() of **ISZ-2021-Patcher**.
 
 
 
@@ -13,6 +14,12 @@
 - Windows Defender might do a scan on the *.exe before running it (be patient).
 - This will Patch, Install External File Loading, and Install (if chosen) the Developer Console.
 
+# Installing UAsset Mods:
+- Get Access to a Mod you want. Example [Vampire Slayer Revisioned](https://github.com/Cracko298/VS-Revisioned-Files/releases/download/v0.1-alpha-1/Single_Player.zip) **(Not for ISZ-2021)**.
+- After Downloading the .uasset Mod. In Steam goto: ***Library > Right-Click Ice Station Z > Manage > Browse Local Files***.
+- In The "File Explorer Window" that just Opened goto: ***ISZ > Content***.
+- Extract your Mod to The Folder you have open.
+- Should look somthing like this [Image](https://github.com/ISZ-Hacker-Organization/ISZ-2021-Patcher/assets/78656905/4c3e6a1a-6280-411e-98cd-5e2271cb63d8).
 
 
 # FAQs:
