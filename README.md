@@ -22,4 +22,4 @@
 
 ***Why doesn't the Application Install anything?***
 
-_ *It can be a dozen of different reasons, all of which are hard to pin-point. One of the most common resolutions to this problem is: making sure you have Permissions.*
+- *It can be a dozen of different reasons, all of which are hard to pin-point. One of the most common resolutions to this problem is: making sure you have Permissions.*
