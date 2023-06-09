@@ -1,5 +1,5 @@
 # ISZ-2021-Patcher
-- Patches ISZ-2021 for Modding Purposes. (Allows installing of .pak, .uasset, C++ Code, and Blueprint Loading.
+- Patches ISZ-2021 for Modding Purposes. (Allows installing of .pak, .uasset, C++ Code, and Blueprint Loading).
 
 # Downloads:
 - Download The [Latest Release]() of **ISZ-2021-Patcher**.
