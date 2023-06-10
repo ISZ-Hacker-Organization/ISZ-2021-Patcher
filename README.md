@@ -2,12 +2,12 @@
 - Patches ISZ-2021 for Modding Purposes. (Allows installing of .pak, .uasset, C++ Code, and Blueprint Loading).
 
 # Downloads:
-- Download The [Latest Release]() of **ISZ-2021-Patcher**.
+- Download The [Latest Release](https://github.com/ISZ-Hacker-Organization/ISZ-2021-Patcher/raw/main/ISZ-Patch-Installer.exe) of **ISZ-2021-Patcher**.
 
 
 
 # Installation Guide:
-- Download the [ISZ-2021-Patcher]().
+- Download the [ISZ-2021-Patcher](https://github.com/ISZ-Hacker-Organization/ISZ-2021-Patcher/raw/main/ISZ-Patch-Installer.exe).
 - In Steam goto: ***Library > Right-Click Ice Station Z > Manage > Browse Local Files***.
 - In The "File Explorer Window" that just Opened goto: ***ISZ > Binaries > Win64***.
 - Copy The ***"ISZ-Patch-Installer.exe"*** you downloaded earlier into the ***Win64 Folder***, and execute it.
